@@ -1,0 +1,16 @@
+{
+  "name": "ScoreFlow 악보 자동 스크롤",
+  "short_name": "ScoreFlow",
+  "description": "기기 내 오프라인 분석으로 악보를 자동 스크롤하는 연주 리더",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2ede2",
+  "theme_color": "#15130f",
+  "lang": "ko",
+  "icons": [
+    { "src": "./icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
